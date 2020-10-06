@@ -43,7 +43,6 @@ Blog Coming Soon!
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
