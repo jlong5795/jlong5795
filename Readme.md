@@ -6,7 +6,7 @@
 ## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
 
 - 🔭 I recently received endorsement from Lambda School!
-- 
+- 📋 Working on an app for party plan professionals - ask me about it!
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking for developer roles and freelance work
 - 🥅 2020 Goals: Start blogging to help support the growth of other new developers
