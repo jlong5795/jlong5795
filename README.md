@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/Lambda-School-Labs/labs-spa-starter/issues/53) in [Lambda-School-Labs/labs-spa-starter](https://github.com/Lambda-School-Labs/labs-spa-starter)
-2. 🎉 Merged PR [#13](https://github.com/Build-Week-PTCT-Expat-Journal-3/back-end/pull/13) in [Build-Week-PTCT-Expat-Journal-3/back-end](https://github.com/Build-Week-PTCT-Expat-Journal-3/back-end)
-3. 🎉 Merged PR [#1](https://github.com/roberttierie/web-sprint-challenge-javascript-fundamentals/pull/1) in [roberttierie/web-sprint-challenge-javascript-fundamentals](https://github.com/roberttierie/web-sprint-challenge-javascript-fundamentals)
-4. 🎉 Merged PR [#1](https://github.com/s-munro/web-sprint-challenge-javascript-fundamentals/pull/1) in [s-munro/web-sprint-challenge-javascript-fundamentals](https://github.com/s-munro/web-sprint-challenge-javascript-fundamentals)
-5. 🎉 Merged PR [#1](https://github.com/jenkrame21/web-sprint-challenge-javascript-fundamentals/pull/1) in [jenkrame21/web-sprint-challenge-javascript-fundamentals](https://github.com/jenkrame21/web-sprint-challenge-javascript-fundamentals)
+1. 🗣 Commented on [#13](https://github.com/AWash227/reddit-but-its-tiktok/issues/13) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+2. ❗️ Opened issue [#13](https://github.com/AWash227/reddit-but-its-tiktok/issues/13) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+3. ❗️ Opened issue [#12](https://github.com/AWash227/reddit-but-its-tiktok/issues/12) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+4. 🗣 Commented on [#9](https://github.com/AWash227/reddit-but-its-tiktok/issues/9) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+5. ❗️ Opened issue [#53](https://github.com/Lambda-School-Labs/labs-spa-starter/issues/53) in [Lambda-School-Labs/labs-spa-starter](https://github.com/Lambda-School-Labs/labs-spa-starter)
 <!--END_SECTION:activity-->
 
 
