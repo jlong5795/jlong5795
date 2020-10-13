@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
-2. 🗣 Commented on [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/issues/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+1. 🎉 Merged PR [#5](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/5) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+2. 💪 Opened PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
 3. 🗣 Commented on [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/issues/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-4. 🎉 Merged PR [#1](https://github.com/jlong5795/Sprint-Challenge--Advanced-CSS/pull/1) in [jlong5795/Sprint-Challenge--Advanced-CSS](https://github.com/jlong5795/Sprint-Challenge--Advanced-CSS)
-5. 💪 Opened PR [#4](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/4) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+4. 🗣 Commented on [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/issues/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+5. 🎉 Merged PR [#1](https://github.com/jlong5795/Sprint-Challenge--Advanced-CSS/pull/1) in [jlong5795/Sprint-Challenge--Advanced-CSS](https://github.com/jlong5795/Sprint-Challenge--Advanced-CSS)
 <!--END_SECTION:activity-->
 
 
