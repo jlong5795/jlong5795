@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/6) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-2. 🗣 Commented on [#13](https://github.com/AWash227/reddit-but-its-tiktok/issues/13) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
-3. 🎉 Merged PR [#5](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/5) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-4. 💪 Opened PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
-5. 🗣 Commented on [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/issues/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+1. 🎉 Merged PR [#4](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/4) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
+2. 🎉 Merged PR [#6](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/6) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+3. 🗣 Commented on [#13](https://github.com/AWash227/reddit-but-its-tiktok/issues/13) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+4. 🎉 Merged PR [#5](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/5) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+5. 💪 Opened PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
 <!--END_SECTION:activity-->
 
 
