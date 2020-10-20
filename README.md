@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-2. 💪 Opened PR [#14](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/14) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
-3. 🎉 Merged PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
-4. 💪 Opened PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
-5. 🎉 Merged PR [#9](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/9) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
+1. 🎉 Merged PR [#14](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/14) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
+2. 🎉 Merged PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+3. 💪 Opened PR [#14](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/14) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
+4. 🎉 Merged PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
+5. 💪 Opened PR [#13](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE/pull/13) in [Lambda-School-Labs/Labs27-C-HRF-BE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE)
 <!--END_SECTION:activity-->
 
 
