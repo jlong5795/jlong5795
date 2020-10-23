@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/AWash227/reddit-but-its-tiktok/pull/21) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
-2. ❌ Closed PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
-3. 🎉 Merged PR [#17](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/17) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-4. ❌ Closed PR [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
-5. 🗣 Commented on [#1](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/issues/1) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
+1. 💪 Opened PR [#15](https://github.com/Underdog-Devs/landed/pull/15) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+2. ❗️ Opened issue [#14](https://github.com/Underdog-Devs/landed/issues/14) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+3. 💪 Opened PR [#21](https://github.com/AWash227/reddit-but-its-tiktok/pull/21) in [AWash227/reddit-but-its-tiktok](https://github.com/AWash227/reddit-but-its-tiktok)
+4. ❌ Closed PR [#1](https://github.com/jlong5795/reddit-but-its-tiktok/pull/1) in [jlong5795/reddit-but-its-tiktok](https://github.com/jlong5795/reddit-but-its-tiktok)
+5. 🎉 Merged PR [#17](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE/pull/17) in [Lambda-School-Labs/Labs27-C-HRF-FE](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE)
 <!--END_SECTION:activity-->
 
 
