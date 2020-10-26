@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Underdog-Devs/landed/pull/17) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
-2. ❗️ Opened issue [#16](https://github.com/Underdog-Devs/landed/issues/16) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
-3. 🎉 Merged PR [#13](https://github.com/Underdog-Devs/landed/pull/13) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
-4. 🎉 Merged PR [#12](https://github.com/Underdog-Devs/landed/pull/12) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
-5. 💪 Opened PR [#15](https://github.com/Underdog-Devs/landed/pull/15) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+1. ❗️ Opened issue [#18](https://github.com/Underdog-Devs/landed/issues/18) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+2. 🗣 Commented on [#17](https://github.com/Underdog-Devs/landed/issues/17) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+3. 💪 Opened PR [#17](https://github.com/Underdog-Devs/landed/pull/17) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+4. ❗️ Opened issue [#16](https://github.com/Underdog-Devs/landed/issues/16) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+5. 🎉 Merged PR [#13](https://github.com/Underdog-Devs/landed/pull/13) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
 <!--END_SECTION:activity-->
 
 
