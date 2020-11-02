@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-2. ❌ Reopened PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-3. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-4. 💪 Opened PR [#31](https://github.com/Lambda-School-Labs/human-rights-first-ds-c/pull/31) in [Lambda-School-Labs/human-rights-first-ds-c](https://github.com/Lambda-School-Labs/human-rights-first-ds-c)
-5. ❌ Closed PR [#31](https://github.com/Lambda-School-Labs/human-rights-first-ds-c/pull/31) in [Lambda-School-Labs/human-rights-first-ds-c](https://github.com/Lambda-School-Labs/human-rights-first-ds-c)
+1. ❗️ Opened issue [#20](https://github.com/Underdog-Devs/landed/issues/20) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+2. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+3. ❌ Reopened PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+4. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+5. 💪 Opened PR [#31](https://github.com/Lambda-School-Labs/human-rights-first-ds-c/pull/31) in [Lambda-School-Labs/human-rights-first-ds-c](https://github.com/Lambda-School-Labs/human-rights-first-ds-c)
 <!--END_SECTION:activity-->
 
 
