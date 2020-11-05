@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#160](https://github.com/FTBTeam/FTB-University/issues/160) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
-2. ❗️ Opened issue [#148](https://github.com/FTBTeam/FTB-University/issues/148) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
-3. ❗️ Opened issue [#20](https://github.com/Underdog-Devs/landed/issues/20) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
-4. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-5. ❌ Reopened PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+1. 🗣 Commented on [#18](https://github.com/Lambda-School-Labs/human-rights-first-fe-c/issues/18) in [Lambda-School-Labs/human-rights-first-fe-c](https://github.com/Lambda-School-Labs/human-rights-first-fe-c)
+2. ❗️ Opened issue [#160](https://github.com/FTBTeam/FTB-University/issues/160) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
+3. ❗️ Opened issue [#148](https://github.com/FTBTeam/FTB-University/issues/148) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
+4. ❗️ Opened issue [#20](https://github.com/Underdog-Devs/landed/issues/20) in [Underdog-Devs/landed](https://github.com/Underdog-Devs/landed)
+5. ❌ Closed PR [#15](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/15) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
 <!--END_SECTION:activity-->
 
 
