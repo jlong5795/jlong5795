@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/17) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-2. 💪 Opened PR [#16](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/16) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-3. 🗣 Commented on [#18](https://github.com/Lambda-School-Labs/human-rights-first-fe-c/issues/18) in [Lambda-School-Labs/human-rights-first-fe-c](https://github.com/Lambda-School-Labs/human-rights-first-fe-c)
-4. ❗️ Opened issue [#160](https://github.com/FTBTeam/FTB-University/issues/160) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
-5. ❗️ Opened issue [#148](https://github.com/FTBTeam/FTB-University/issues/148) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
+1. 🎉 Merged PR [#17](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/17) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+2. 💪 Opened PR [#17](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/17) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+3. 💪 Opened PR [#16](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/16) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
+4. 🗣 Commented on [#18](https://github.com/Lambda-School-Labs/human-rights-first-fe-c/issues/18) in [Lambda-School-Labs/human-rights-first-fe-c](https://github.com/Lambda-School-Labs/human-rights-first-fe-c)
+5. ❗️ Opened issue [#160](https://github.com/FTBTeam/FTB-University/issues/160) in [FTBTeam/FTB-University](https://github.com/FTBTeam/FTB-University)
 <!--END_SECTION:activity-->
 
 
