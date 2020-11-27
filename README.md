@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4413](https://github.com/DarkPacks/SevTech-Ages/issues/4413) in [DarkPacks/SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages)
-2. ❗️ Opened issue [#4413](https://github.com/DarkPacks/SevTech-Ages/issues/4413) in [DarkPacks/SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages)
-3. 🗣 Commented on [#29](https://github.com/Underdog-Devs/website/issues/29) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-4. 🎉 Merged PR [#22](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/22) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
-5. 🎉 Merged PR [#56](https://github.com/Lambda-School-Labs/human-rights-first-fe-c/pull/56) in [Lambda-School-Labs/human-rights-first-fe-c](https://github.com/Lambda-School-Labs/human-rights-first-fe-c)
+1. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+2. 🗣 Commented on [#4413](https://github.com/DarkPacks/SevTech-Ages/issues/4413) in [DarkPacks/SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages)
+3. ❗️ Opened issue [#4413](https://github.com/DarkPacks/SevTech-Ages/issues/4413) in [DarkPacks/SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages)
+4. 🗣 Commented on [#29](https://github.com/Underdog-Devs/website/issues/29) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+5. 🎉 Merged PR [#22](https://github.com/Lambda-School-Labs/human-rights-first-be-c/pull/22) in [Lambda-School-Labs/human-rights-first-be-c](https://github.com/Lambda-School-Labs/human-rights-first-be-c)
 <!--END_SECTION:activity-->
 
 
