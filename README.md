@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/jlong5795/JudgeJLoBot/issues/3) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-2. ❗️ Opened issue [#2](https://github.com/jlong5795/JudgeJLoBot/issues/2) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-3. ❗️ Opened issue [#1](https://github.com/jlong5795/JudgeJLoBot/issues/1) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-4. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-5. 🗣 Commented on [#4413](https://github.com/DarkPacks/SevTech-Ages/issues/4413) in [DarkPacks/SevTech-Ages](https://github.com/DarkPacks/SevTech-Ages)
+1. ❗️ Opened issue [#4](https://github.com/jlong5795/JudgeJLoBot/issues/4) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+2. ❗️ Opened issue [#3](https://github.com/jlong5795/JudgeJLoBot/issues/3) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+3. ❗️ Opened issue [#2](https://github.com/jlong5795/JudgeJLoBot/issues/2) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+4. ❗️ Opened issue [#1](https://github.com/jlong5795/JudgeJLoBot/issues/1) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+5. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
 
