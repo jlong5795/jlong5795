@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/jlong5795/JudgeJLoBot/issues/5) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-2. ❗️ Opened issue [#4](https://github.com/jlong5795/JudgeJLoBot/issues/4) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-3. ❗️ Opened issue [#3](https://github.com/jlong5795/JudgeJLoBot/issues/3) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-4. ❗️ Opened issue [#2](https://github.com/jlong5795/JudgeJLoBot/issues/2) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-5. ❗️ Opened issue [#1](https://github.com/jlong5795/JudgeJLoBot/issues/1) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+1. ❗️ Closed issue [#1](https://github.com/jlong5795/JudgeJLoBot/issues/1) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+2. ❗️ Closed issue [#2](https://github.com/jlong5795/JudgeJLoBot/issues/2) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+3. ❗️ Closed issue [#4](https://github.com/jlong5795/JudgeJLoBot/issues/4) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+4. ❗️ Closed issue [#3](https://github.com/jlong5795/JudgeJLoBot/issues/3) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+5. ❗️ Opened issue [#5](https://github.com/jlong5795/JudgeJLoBot/issues/5) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
 <!--END_SECTION:activity-->
 
 
