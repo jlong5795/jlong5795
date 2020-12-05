@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/jlong5795/JudgeJLoBot/pull/8) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-2. 💪 Opened PR [#8](https://github.com/jlong5795/JudgeJLoBot/pull/8) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-3. 🎉 Merged PR [#7](https://github.com/jlong5795/JudgeJLoBot/pull/7) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-4. 💪 Opened PR [#7](https://github.com/jlong5795/JudgeJLoBot/pull/7) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-5. ❗️ Reopened issue [#6](https://github.com/jlong5795/JudgeJLoBot/issues/6) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+1. ❗️ Opened issue [#10](https://github.com/jlong5795/JudgeJLoBot/issues/10) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+2. 🎉 Merged PR [#9](https://github.com/jlong5795/JudgeJLoBot/pull/9) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+3. 💪 Opened PR [#9](https://github.com/jlong5795/JudgeJLoBot/pull/9) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+4. 🎉 Merged PR [#8](https://github.com/jlong5795/JudgeJLoBot/pull/8) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+5. 💪 Opened PR [#8](https://github.com/jlong5795/JudgeJLoBot/pull/8) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
 <!--END_SECTION:activity-->
 
 
