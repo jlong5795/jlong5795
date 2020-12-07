@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/jlong5795/JudgeJLoBot/issues/11) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-2. ❗️ Opened issue [#10](https://github.com/jlong5795/JudgeJLoBot/issues/10) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-3. 🎉 Merged PR [#9](https://github.com/jlong5795/JudgeJLoBot/pull/9) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-4. 💪 Opened PR [#9](https://github.com/jlong5795/JudgeJLoBot/pull/9) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-5. 🎉 Merged PR [#8](https://github.com/jlong5795/JudgeJLoBot/pull/8) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+1. 🗣 Commented on [#37](https://github.com/Underdog-Devs/website/issues/37) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+2. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. ❗️ Opened issue [#11](https://github.com/jlong5795/JudgeJLoBot/issues/11) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+4. ❗️ Opened issue [#10](https://github.com/jlong5795/JudgeJLoBot/issues/10) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+5. 🎉 Merged PR [#9](https://github.com/jlong5795/JudgeJLoBot/pull/9) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
 <!--END_SECTION:activity-->
 
 
