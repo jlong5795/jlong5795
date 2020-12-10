@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/1) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
-2. 💪 Opened PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/1) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
-3. 💪 Opened PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/1) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-4. 🗣 Commented on [#37](https://github.com/Underdog-Devs/website/issues/37) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-5. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. 💪 Opened PR [#2](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/2) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+2. 🎉 Merged PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/1) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+3. 💪 Opened PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/1) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+4. 💪 Opened PR [#1](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/1) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+5. 🗣 Commented on [#37](https://github.com/Underdog-Devs/website/issues/37) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
 
