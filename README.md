@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🎉 Merged PR [#9](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/9) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-3. 🎉 Merged PR [#8](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/8) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-4. 🗣 Commented on [#8](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/issues/8) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-5. 🗣 Commented on [#7](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/issues/7) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+1. 🎉 Merged PR [#10](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/10) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+2. 🗣 Commented on [#35](https://github.com/Underdog-Devs/website/issues/35) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. 🎉 Merged PR [#9](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/9) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+4. 🎉 Merged PR [#8](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/8) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+5. 🗣 Commented on [#8](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/issues/8) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
 <!--END_SECTION:activity-->
 
 
