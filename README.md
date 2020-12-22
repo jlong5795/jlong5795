@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/jlong5795/blog/issues/3) in [jlong5795/blog](https://github.com/jlong5795/blog)
-2. ❗️ Opened issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
-3. 🎉 Merged PR [#1](https://github.com/jlong5795/blog/pull/1) in [jlong5795/blog](https://github.com/jlong5795/blog)
-4. 💪 Opened PR [#1](https://github.com/jlong5795/blog/pull/1) in [jlong5795/blog](https://github.com/jlong5795/blog)
-5. 🎉 Merged PR [#19](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/19) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+1. ❗️ Opened issue [#4](https://github.com/jlong5795/blog/issues/4) in [jlong5795/blog](https://github.com/jlong5795/blog)
+2. ❗️ Opened issue [#3](https://github.com/jlong5795/blog/issues/3) in [jlong5795/blog](https://github.com/jlong5795/blog)
+3. ❗️ Opened issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
+4. 🎉 Merged PR [#1](https://github.com/jlong5795/blog/pull/1) in [jlong5795/blog](https://github.com/jlong5795/blog)
+5. 💪 Opened PR [#1](https://github.com/jlong5795/blog/pull/1) in [jlong5795/blog](https://github.com/jlong5795/blog)
 <!--END_SECTION:activity-->
 
 
