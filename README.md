@@ -43,10 +43,10 @@ Blog Coming Soon!
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#155](https://github.com/benawad/vsinder/issues/155) in [benawad/vsinder](https://github.com/benawad/vsinder)
-2. ❗️ Opened issue [#4](https://github.com/jlong5795/blog/issues/4) in [jlong5795/blog](https://github.com/jlong5795/blog)
-3. ❗️ Opened issue [#3](https://github.com/jlong5795/blog/issues/3) in [jlong5795/blog](https://github.com/jlong5795/blog)
-4. ❗️ Opened issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
-5. 🎉 Merged PR [#1](https://github.com/jlong5795/blog/pull/1) in [jlong5795/blog](https://github.com/jlong5795/blog)
+2. 🗣 Commented on [#155](https://github.com/benawad/vsinder/issues/155) in [benawad/vsinder](https://github.com/benawad/vsinder)
+3. ❗️ Opened issue [#4](https://github.com/jlong5795/blog/issues/4) in [jlong5795/blog](https://github.com/jlong5795/blog)
+4. ❗️ Opened issue [#3](https://github.com/jlong5795/blog/issues/3) in [jlong5795/blog](https://github.com/jlong5795/blog)
+5. ❗️ Opened issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
 <!--END_SECTION:activity-->
 
 
