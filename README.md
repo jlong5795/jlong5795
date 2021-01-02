@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/jlong5795/JudgeJLoBot/pull/12) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-2. 💪 Opened PR [#12](https://github.com/jlong5795/JudgeJLoBot/pull/12) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
-3. 🗣 Commented on [#155](https://github.com/benawad/vsinder/issues/155) in [benawad/vsinder](https://github.com/benawad/vsinder)
+1. 💪 Opened PR [#13](https://github.com/jlong5795/JudgeJLoBot/pull/13) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+2. 🎉 Merged PR [#12](https://github.com/jlong5795/JudgeJLoBot/pull/12) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+3. 💪 Opened PR [#12](https://github.com/jlong5795/JudgeJLoBot/pull/12) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
 4. 🗣 Commented on [#155](https://github.com/benawad/vsinder/issues/155) in [benawad/vsinder](https://github.com/benawad/vsinder)
-5. ❗️ Opened issue [#4](https://github.com/jlong5795/blog/issues/4) in [jlong5795/blog](https://github.com/jlong5795/blog)
+5. 🗣 Commented on [#155](https://github.com/benawad/vsinder/issues/155) in [benawad/vsinder](https://github.com/benawad/vsinder)
 <!--END_SECTION:activity-->
 
 
