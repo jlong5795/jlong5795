@@ -42,6 +42,12 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/4) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+2. ❗️ Closed issue [#10](https://github.com/jlong5795/JudgeJLoBot/issues/10) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+3. 🎉 Merged PR [#14](https://github.com/jlong5795/JudgeJLoBot/pull/14) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+4. 💪 Opened PR [#14](https://github.com/jlong5795/JudgeJLoBot/pull/14) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+5. 🗣 Commented on [#6](https://github.com/jlong5795/JudgeJLoBot/issues/6) in [jlong5795/JudgeJLoBot](https://github.com/jlong5795/JudgeJLoBot)
+<!--END_SECTION:activity-->
 
 
 </details>
