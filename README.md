@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/23) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-2. 🎉 Merged PR [#22](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/22) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-3. 🎉 Merged PR [#21](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/21) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-4. 💪 Opened PR [#21](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/21) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-5. 🎉 Merged PR [#6](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/6) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+1. 🎉 Merged PR [#25](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/25) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+2. 🎉 Merged PR [#24](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/24) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+3. 🎉 Merged PR [#23](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/23) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+4. 🎉 Merged PR [#22](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/22) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+5. 🎉 Merged PR [#21](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/21) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
 <!--END_SECTION:activity-->
 
 
