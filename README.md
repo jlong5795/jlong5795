@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/36) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-2. 💪 Opened PR [#36](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/36) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-3. 🎉 Merged PR [#35](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/35) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-4. 💪 Opened PR [#35](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/35) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-5. 🎉 Merged PR [#34](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/34) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+1. 🎉 Merged PR [#5](https://github.com/jlong5795/blog/pull/5) in [jlong5795/blog](https://github.com/jlong5795/blog)
+2. 💪 Opened PR [#5](https://github.com/jlong5795/blog/pull/5) in [jlong5795/blog](https://github.com/jlong5795/blog)
+3. 🎉 Merged PR [#36](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/36) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+4. 💪 Opened PR [#36](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/36) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+5. 🎉 Merged PR [#35](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/35) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
 <!--END_SECTION:activity-->
 
 
