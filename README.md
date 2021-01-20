@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-3. ❗️ Closed issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
-4. 🎉 Merged PR [#6](https://github.com/jlong5795/blog/pull/6) in [jlong5795/blog](https://github.com/jlong5795/blog)
-5. 💪 Opened PR [#6](https://github.com/jlong5795/blog/pull/6) in [jlong5795/blog](https://github.com/jlong5795/blog)
+1. 🎉 Merged PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+2. 💪 Opened PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+3. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+4. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+5. ❗️ Closed issue [#2](https://github.com/jlong5795/blog/issues/2) in [jlong5795/blog](https://github.com/jlong5795/blog)
 <!--END_SECTION:activity-->
 
 
