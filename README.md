@@ -42,10 +42,10 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🎉 Merged PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-3. 💪 Opened PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
-4. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. ❗️ Opened issue [#1091](https://github.com/NillerMedDild/Enigmatica6/issues/1091) in [NillerMedDild/Enigmatica6](https://github.com/NillerMedDild/Enigmatica6)
+2. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. 🎉 Merged PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
+4. 💪 Opened PR [#37](https://github.com/Lambda-School-Labs/human-rights-first-fe-a/pull/37) in [Lambda-School-Labs/human-rights-first-fe-a](https://github.com/Lambda-School-Labs/human-rights-first-fe-a)
 5. 🗣 Commented on [#64](https://github.com/Underdog-Devs/website/issues/64) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
