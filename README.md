@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com/Underdog-Devs/website/issues/93) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. ❗️ Opened issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-3. 🎉 Merged PR [#7](https://github.com/jlong5795/blog/pull/7) in [jlong5795/blog](https://github.com/jlong5795/blog)
-4. 💪 Opened PR [#7](https://github.com/jlong5795/blog/pull/7) in [jlong5795/blog](https://github.com/jlong5795/blog)
-5. 🎉 Merged PR [#12](https://github.com/Lambda-School-Labs/human-rights-first-be-a/pull/12) in [Lambda-School-Labs/human-rights-first-be-a](https://github.com/Lambda-School-Labs/human-rights-first-be-a)
+1. ❗️ Closed issue [#70](https://github.com/Underdog-Devs/website/issues/70) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+2. 🗣 Commented on [#70](https://github.com/Underdog-Devs/website/issues/70) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. ❗️ Opened issue [#93](https://github.com/Underdog-Devs/website/issues/93) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+4. ❗️ Opened issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+5. 🎉 Merged PR [#7](https://github.com/jlong5795/blog/pull/7) in [jlong5795/blog](https://github.com/jlong5795/blog)
 <!--END_SECTION:activity-->
 
 
