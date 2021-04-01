@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/jlong5795/blog/pull/8) in [jlong5795/blog](https://github.com/jlong5795/blog)
-2. 💪 Opened PR [#8](https://github.com/jlong5795/blog/pull/8) in [jlong5795/blog](https://github.com/jlong5795/blog)
-3. 🗣 Commented on [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-4. 🗣 Commented on [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-5. ❗️ Closed issue [#70](https://github.com/Underdog-Devs/website/issues/70) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+2. 🎉 Merged PR [#97](https://github.com/Underdog-Devs/website/pull/97) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. 🗣 Commented on [#97](https://github.com/Underdog-Devs/website/issues/97) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+4. 🎉 Merged PR [#98](https://github.com/Underdog-Devs/website/pull/98) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+5. ❗️ Closed issue [#95](https://github.com/Underdog-Devs/website/issues/95) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
 
