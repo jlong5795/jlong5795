@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🗣 Commented on [#99](https://github.com/Underdog-Devs/website/issues/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-3. 💪 Opened PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-4. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-5. 🎉 Merged PR [#97](https://github.com/Underdog-Devs/website/pull/97) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. 🎉 Merged PR [#1](https://github.com/jlong5795/React-Router-Movies/pull/1) in [jlong5795/React-Router-Movies](https://github.com/jlong5795/React-Router-Movies)
+2. 🎉 Merged PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+3. 🗣 Commented on [#99](https://github.com/Underdog-Devs/website/issues/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+4. 💪 Opened PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+5. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
 
