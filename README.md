@@ -55,7 +55,7 @@ Blog Coming Soon!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats-mocha-three.vercel.app/api?username=jlong5795&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats-mocha-three.vercel.app/api?username=jlong5795&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
