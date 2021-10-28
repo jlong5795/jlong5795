@@ -6,9 +6,14 @@
 ## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
 
 - 🔭 I have the privilege of leading an amazing dev team!
+<<<<<<< HEAD
 - 📋 I work daily to affect meaningful change in people's lives
 - 🌱 I’m exploring what new technology I want to learn
 - 👯 
+=======
+- 📋 Working on an app for party plan professionals - ask me about it!
+- 🌱 I’m currently learning React Native
+>>>>>>> 1e855ef9c4fb8911c3dca25481259a61b98cdbe4
 - 🥅 2021 Goals: Start blogging to help support the growth of other new developers
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
@@ -42,8 +47,8 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jlong5795/React-Router-Movies/pull/1) in [jlong5795/React-Router-Movies](https://github.com/jlong5795/React-Router-Movies)
-2. 🎉 Merged PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. 🎉 Merged PR [#107](https://github.com/Underdog-Devs/website/pull/107) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+2. 🎉 Merged PR [#1](https://github.com/jlong5795/React-Router-Movies/pull/1) in [jlong5795/React-Router-Movies](https://github.com/jlong5795/React-Router-Movies)
 3. 🗣 Commented on [#99](https://github.com/Underdog-Devs/website/issues/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 4. 💪 Opened PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 5. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
