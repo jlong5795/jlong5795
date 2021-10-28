@@ -56,6 +56,9 @@ Blog Coming Soon!
 
   <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats-mocha-three.vercel.app/api?username=jlong5795&show_icons=true&hide_border=true&count_private=true" />
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [website]: http://jasonalong.com
