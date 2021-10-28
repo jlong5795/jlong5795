@@ -6,14 +6,9 @@
 ## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
 
 - 🔭 I have the privilege of leading an amazing dev team!
-<<<<<<< HEAD
 - 📋 I work daily to affect meaningful change in people's lives
 - 🌱 I’m exploring what new technology I want to learn
 - 👯 
-=======
-- 📋 Working on an app for party plan professionals - ask me about it!
-- 🌱 I’m currently learning React Native
->>>>>>> 1e855ef9c4fb8911c3dca25481259a61b98cdbe4
 - 🥅 2021 Goals: Start blogging to help support the growth of other new developers
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
