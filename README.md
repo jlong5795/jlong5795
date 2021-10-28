@@ -49,7 +49,6 @@ Blog Coming Soon!
 5. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 <!--END_SECTION:activity-->
 
-
 </details>
 
 <details>
