@@ -42,8 +42,8 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/Underdog-Devs/website/pull/107) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🎉 Merged PR [#1](https://github.com/jlong5795/React-Router-Movies/pull/1) in [jlong5795/React-Router-Movies](https://github.com/jlong5795/React-Router-Movies)
+1. 💪 Opened PR [#158](https://github.com/story-squad/clash-of-the-pencils-web/pull/158) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+2. 💪 Opened PR [#145](https://github.com/story-squad/clash-of-the-pencils-web/pull/145) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
 3. 🗣 Commented on [#99](https://github.com/Underdog-Devs/website/issues/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 4. 💪 Opened PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
 5. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
