@@ -42,11 +42,11 @@ Blog Coming Soon!
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/story-squad/clash-api-node/pull/133) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
-2. 🎉 Merged PR [#132](https://github.com/story-squad/clash-api-node/pull/132) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
-3. 🎉 Merged PR [#131](https://github.com/story-squad/clash-api-node/pull/131) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
-4. 🎉 Merged PR [#180](https://github.com/story-squad/clash-of-the-pencils-web/pull/180) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
-5. 💪 Opened PR [#180](https://github.com/story-squad/clash-of-the-pencils-web/pull/180) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+1. 🎉 Merged PR [#134](https://github.com/story-squad/clash-api-node/pull/134) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
+2. 🎉 Merged PR [#133](https://github.com/story-squad/clash-api-node/pull/133) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
+3. 🎉 Merged PR [#132](https://github.com/story-squad/clash-api-node/pull/132) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
+4. 🎉 Merged PR [#131](https://github.com/story-squad/clash-api-node/pull/131) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
+5. 🎉 Merged PR [#180](https://github.com/story-squad/clash-of-the-pencils-web/pull/180) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
 <!--END_SECTION:activity-->
 
 </details>
