@@ -5,11 +5,10 @@
 
 ## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
 
-- 🔭 I have the privilege of leading an amazing dev team!
+- 🔭 I have the immense priviledge of working in spaces that positively impact people!
 - 📋 I work daily to affect meaningful change in people's lives
 - 🌱 I’m exploring what new technology I want to learn
-- 👯 
-- 🥅 2021 Goals: Start blogging to help support the growth of other new developers
+- 🥅 2022 Goals: Start blogging to help support the growth of other new developers, complete at least 1 personal project (probably my blog site)
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
 ### Connect with me:
@@ -59,5 +58,8 @@ Blog Coming Soon!
 </details>
 
 [website]: http://jasonalong.com
+[website]: https://hrfinnovation.org
+[website]: https://joinfreeworld.com
+[website]: https://svnstar.com
 [twitter]: https://twitter.com/jlong5795
 [linkedin]: https://www.linkedin.com/in/jasonlong1231/
