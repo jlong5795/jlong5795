@@ -7,7 +7,7 @@
 
 - 🔭 I have the immense priviledge of working in spaces that positively impact people!
 - 📋 I work daily to affect meaningful change in people's lives
-- 🌱 I’m exploring what new technology I want to learn
+- 🌱 I’m doing a dive on AI/ML using JavaScript... this should be interesting!
 - 🥅 2022 Goals: Start blogging to help support the growth of other new developers, complete at least 1 personal project (probably my blog site)
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
