@@ -5,11 +5,10 @@
 
 ## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
 
-- 🔭 I have the privilege of leading an amazing dev team!
+- 🔭 I have the immense priviledge of working in spaces that positively impact people!
 - 📋 I work daily to affect meaningful change in people's lives
-- 🌱 I’m exploring what new technology I want to learn
-- 👯 
-- 🥅 2021 Goals: Start blogging to help support the growth of other new developers
+- 🌱 I’m doing a dive on AI/ML using JavaScript... this should be interesting!
+- 🥅 2022 Goals: Start blogging to help support the growth of other new developers, complete at least 1 personal project (probably my blog site)
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
 ### Connect with me:
@@ -41,11 +40,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/Underdog-Devs/website/pull/107) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-2. 🎉 Merged PR [#1](https://github.com/jlong5795/React-Router-Movies/pull/1) in [jlong5795/React-Router-Movies](https://github.com/jlong5795/React-Router-Movies)
-3. 🗣 Commented on [#99](https://github.com/Underdog-Devs/website/issues/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-4. 💪 Opened PR [#99](https://github.com/Underdog-Devs/website/pull/99) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
-5. ❗️ Closed issue [#92](https://github.com/Underdog-Devs/website/issues/92) in [Underdog-Devs/website](https://github.com/Underdog-Devs/website)
+1. 🎉 Merged PR [#193](https://github.com/story-squad/clash-of-the-pencils-web/pull/193) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+2. 💪 Opened PR [#193](https://github.com/story-squad/clash-of-the-pencils-web/pull/193) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+3. 🎉 Merged PR [#192](https://github.com/story-squad/clash-of-the-pencils-web/pull/192) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+4. 💪 Opened PR [#192](https://github.com/story-squad/clash-of-the-pencils-web/pull/192) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+5. 🎉 Merged PR [#160](https://github.com/story-squad/clash-api-node/pull/160) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
 <!--END_SECTION:activity-->
 
 </details>
@@ -58,5 +57,8 @@
 </details>
 
 [website]: http://jasonalong.com
+[website]: https://hrfinnovation.org
+[website]: https://joinfreeworld.com
+[website]: https://svnstar.com
 [twitter]: https://twitter.com/jlong5795
 [linkedin]: https://www.linkedin.com/in/jasonlong1231/
