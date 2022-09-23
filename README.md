@@ -40,8 +40,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/CodingGarden/google-calendar-twitch-schedule-mirror/issues/1) in [CodingGarden/google-calendar-twitch-schedule-mirror](https://github.com/CodingGarden/google-calendar-twitch-schedule-mirror)
-2. 💪 Opened PR [#193](https://github.com/story-squad/clash-of-the-pencils-web/pull/193) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
+1. ❗️ Opened issue [#2065](https://github.com/remy/nodemon/issues/2065) in [remy/nodemon](https://github.com/remy/nodemon)
+2. ❗️ Opened issue [#1](https://github.com/CodingGarden/google-calendar-twitch-schedule-mirror/issues/1) in [CodingGarden/google-calendar-twitch-schedule-mirror](https://github.com/CodingGarden/google-calendar-twitch-schedule-mirror)
 3. 🎉 Merged PR [#192](https://github.com/story-squad/clash-of-the-pencils-web/pull/192) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
 4. 💪 Opened PR [#192](https://github.com/story-squad/clash-of-the-pencils-web/pull/192) in [story-squad/clash-of-the-pencils-web](https://github.com/story-squad/clash-of-the-pencils-web)
 5. 🎉 Merged PR [#160](https://github.com/story-squad/clash-api-node/pull/160) in [story-squad/clash-api-node](https://github.com/story-squad/clash-api-node)
