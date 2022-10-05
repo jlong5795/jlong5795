@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=jasonalong.com&style=for-the-badge&url=https%3A%2F%2Fjasonalong.com)](http://jasonalong.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jlong5795?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjlong5795&screen_name=jlong5795)
 
-## I'm a soon to be Husband, Dog Father, Full Stack Web Developer, and Mentor!
+## I'm a be Husband, Dog Dad, Web Developer, Leader, and Mentor!
 
 - 🔭 I have the immense priviledge of working in spaces that positively impact people!
 - 📋 I work daily to affect meaningful change in people's lives
 - 🌱 I’m doing a dive on AI/ML using JavaScript... this should be interesting!
-- 🥅 2022 Goals: Start blogging to help support the growth of other new developers, complete at least 1 personal project (probably my blog site)
+- 🥅 2023 Goals: Start blogging to help support the growth of other new developers, complete at least 1 personal project (probably my blog site), and attend 2 in person conferences
 - ⚡ Fun fact: I am an avid gamer (card, board, and video varieties)
 
 ### Connect with me:
@@ -20,6 +20,7 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -59,6 +60,5 @@
 [website]: http://jasonalong.com
 [website]: https://hrfinnovation.org
 [website]: https://joinfreeworld.com
-[website]: https://svnstar.com
 [twitter]: https://twitter.com/jlong5795
 [linkedin]: https://www.linkedin.com/in/jasonlong1231/
