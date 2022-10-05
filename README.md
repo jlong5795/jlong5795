@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=jasonalong.com&style=for-the-badge&url=https%3A%2F%2Fjasonalong.com)](http://jasonalong.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jlong5795?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjlong5795&screen_name=jlong5795)
 
-## I'm a be Husband, Dog Dad, Web Developer, Leader, and Mentor!
+## I'm a Husband, Dog Dad, Web Developer, Leader, and Mentor!
 
 - 🔭 I have the immense priviledge of working in spaces that positively impact people!
 - 📋 I work daily to affect meaningful change in people's lives
