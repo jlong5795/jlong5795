@@ -12,8 +12,8 @@ After years of working in various spaces I found my home and passion in technolo
 * 🤝  I'm open to collaborating on Projects that touch human, civil, and/or criminal justice rights.
 * ⚡  If you ever need gift ideas I love Batman
 
-<a href="https://www.twitter.com/jlong5795" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jlong5795?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/jlong5795" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jlong5795?style=for-the-badge&labelColor=1c1917&color=0891b2"
 /></a><a href="https://www.twitch.tv/judgejlo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/judgejlo?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
@@ -48,8 +48,6 @@ src="https://img.shields.io/twitch/status/judgejlo?logo=twitchsx&style=for-the-b
 ### My Github Stats
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <a href="http://www.github.com/jlong5795"><img src="https://github-readme-stats.vercel.app/api?username=jlong5795&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jlong5795's GitHub stats" /></a>
 
