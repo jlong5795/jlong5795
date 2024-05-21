@@ -53,6 +53,4 @@ src="https://img.shields.io/twitch/status/judgejlo?logo=twitchsx&style=for-the-b
 
 <a href="http://www.github.com/jlong5795"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jlong5795&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jlong5795"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jlong5795" alt="GitHub Commits Graph" /></a>
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<a href="http://www.github.com/jlong5795"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jlong5795&theme=react-dark" alt="GitHub Commits Graph" /></a>
