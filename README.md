@@ -48,6 +48,12 @@ src="https://img.shields.io/twitch/status/judgejlo?logo=twitchsx&style=for-the-b
 ### My Github Stats
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#116](https://github.com/jamesgeorge007/github-activity-readme/pull/116) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 💪 Opened PR [#116](https://github.com/jamesgeorge007/github-activity-readme/pull/116) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#5](https://github.com/Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a/pull/5) in [Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a](https://github.com/Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a)
+4. 💪 Opened PR [#4](https://github.com/Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a/pull/4) in [Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a](https://github.com/Human-Rights-First-Innovation-Lab/human-rights-first-asylum-ds-a)
+5. ❗ Opened issue [#2941](https://github.com/withfig/fig/issues/2941) in [withfig/fig](https://github.com/withfig/fig)
+<!--END_SECTION:activity-->
 
 <a href="http://www.github.com/jlong5795"><img src="https://github-readme-stats.vercel.app/api?username=jlong5795&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jlong5795's GitHub stats" /></a>
 
