@@ -7,7 +7,7 @@ Dog Dad. Tech Director. Impact Focused Technologist.
 After years of working in various spaces I found my home and passion in technology. I am priviledged to use my experience and expertise working in impact spaces, helping to make lives better for everyone!
 
 * 🌍  I'm based in Chicago
-* 🖥️  See what I've been working on at [JasonLong.dev](http://jasonalong.dev)
+* 🖥️  See what I've been working on at [JasonLong.dev](http://jasonlong.dev)
 * ✉️  You can contact me at [jlong5795@gmail.com](mailto:jlong5795@gmail.com)
 * 🤝  I'm open to collaborating on Projects that touch human, civil, and/or criminal justice rights.
 * ⚡  If you ever need gift ideas I love Batman
