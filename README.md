@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason Long
 ==================================================================================================================================
 
-Dog Dad. Tech Director. Impact Focused Technologist.
+Dog Dad. CTO. Impact Focused Technologist. HRD.
 ----------------------------------------------------
 
 After years of working in various spaces I found my home and passion in technology. I am priviledged to use my experience and expertise working in impact spaces, helping to make lives better for everyone!
